@@ -1,0 +1,44 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Libro 1",
+      "genero": "Novela",
+      "autor": "Cesar Vallejo",
+      "precio": 10,
+      "estado": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Libro 2",
+      "genero": "Ciencia Ficcion",
+      "autor": "Cesar Vallejo",
+      "precio": 10,
+      "estado": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Libro 3",
+      "genero": "Fantasia",
+      "autor": "Cesar Vallejo",
+      "precio": 10,
+      "estado": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Libro 4",
+      "genero": "Paranormal",
+      "autor": "Cesar Vallejo",
+      "precio": 10,
+      "estado": 0
+    },
+    {
+      "nombre": "prueba",
+      "autor": "autor2",
+      "genero": "Ficcion",
+      "precio": "15",
+      "estado": 0,
+      "id": 5
+    }
+  ]
+}
