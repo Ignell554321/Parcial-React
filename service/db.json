@@ -39,6 +39,14 @@
       "precio": "15",
       "estado": 0,
       "id": 5
+    },
+    {
+      "nombre": "La ciudad y los perros",
+      "autor": "Mario Vargas Llosa",
+      "genero": "Novela",
+      "precio": "50.00",
+      "estado": 0,
+      "id": 7
     }
   ]
 }
